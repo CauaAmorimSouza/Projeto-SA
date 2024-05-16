@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function Busines() {
+export default function Business() {
     return (
         <section className='busines' id='busina'>
             <img className='imgbusines' src="ParceirosChave.png"/>
