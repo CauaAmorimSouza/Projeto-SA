@@ -13,7 +13,7 @@ export default function Integrantes(){
             <img src="Derrota.jpeg" alt="" />
             <p>Vitoria Mina</p>
             <img src="Ruan.jfif" alt="" />
-            <p>Ruan Tasca Henrique</p>
+            <p>Ruan Henrique</p>
             <img src="Jonas.jpeg" alt="" />
             <p>Jonas Assunção</p>
         </section>
