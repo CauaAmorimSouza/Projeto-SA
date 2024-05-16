@@ -11,7 +11,7 @@ export default function Integrantes(){
             <img src="Isa.jpeg" alt="" />
             <p>Isabella Oliveira</p>
             <img src="Derrota.jpeg" alt="" />
-            <p>Vitoria Mina</p>
+            <p>Vitória Mina</p>
             <img src="Ruan.jfif" alt="" />
             <p>Ruan Henrique</p>
             <img src="Jonas.jpeg" alt="" />
